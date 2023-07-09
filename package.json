@@ -1,0 +1,33 @@
+{
+  "name": "challenge-18",
+  "version": "1.0.1",
+  "description": "NoSQL-Challenge-Social-Network-API",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "seed": "",
+    "heroku-postbuild": ""
+  },
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.2.4",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snastacia/NoSQL-Challenge-Social-Network-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/snastacia/NoSQL-Challenge-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/snastacia/NoSQL-Challenge-Social-Network-API#readme"
+}
